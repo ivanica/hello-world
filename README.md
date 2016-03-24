@@ -1,2 +1,3 @@
 # hello-world
-My first project 
+
+I'm delighted to have you here!
